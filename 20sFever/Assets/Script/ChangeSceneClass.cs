@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 using UnityEngine;
-/// 
+/// writer name is Sato Momoya
 ///シーン変更用クラス
 public class ChangeSceneClass : MonoBehaviour
 {

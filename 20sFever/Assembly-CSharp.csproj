@@ -64,6 +64,8 @@
   <ItemGroup>
     <Compile Include="Assets\Script\ChangeSceneClass.cs" />
     <Compile Include="Assets\Script\ChangeToTitleScene.cs" />
+    <Compile Include="Assets\Script\ColorBall.cs" />
+    <Compile Include="Assets\Script\ColorBallManager.cs" />
     <None Include="Assets\Shader\Dissolve.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/s172091/Desktop/UnityGame/20sFever/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

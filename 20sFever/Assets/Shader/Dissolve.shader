@@ -1,4 +1,6 @@
-﻿Shader "Custom/Dissolve"
+﻿/// writer name is Sato Momoya
+/// ディゾルブシェーダー
+Shader "Custom/Dissolve"
 {
     Properties
     {

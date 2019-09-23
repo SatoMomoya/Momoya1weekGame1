@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+/// writer name is Sato Momoya
 ///タイトルシーンへ切り替えるクラス
 public class ChangeToTitleScene : MonoBehaviour
 {
