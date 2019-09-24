@@ -62,10 +62,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\ChangeSceneClass.cs" />
-    <Compile Include="Assets\Script\ChangeToTitleScene.cs" />
-    <Compile Include="Assets\Script\ColorBall.cs" />
-    <Compile Include="Assets\Script\ColorBallManager.cs" />
+    <Compile Include="Assets\Script\ColorBallScript\ColorBall.cs" />
+    <Compile Include="Assets\Script\ColorBallScript\ColorBallManager.cs" />
+    <Compile Include="Assets\Script\GameStateScript\ChangeColorState.cs" />
+    <Compile Include="Assets\Script\GameStateScript\CheckComboState.cs" />
+    <Compile Include="Assets\Script\GameStateScript\FinishGameState.cs" />
+    <Compile Include="Assets\Script\GameStateScript\GameState.cs" />
+    <Compile Include="Assets\Script\GameStateScript\PutBallsBackState.cs" />
+    <Compile Include="Assets\Script\GameStateScript\ReflectScoreState.cs" />
+    <Compile Include="Assets\Script\GameStateScript\StartGameState.cs" />
+    <Compile Include="Assets\Script\GameStateScript\TapedState.cs" />
+    <Compile Include="Assets\Script\GameStateScript\WaitTapState.cs" />
+    <Compile Include="Assets\Script\SceneScript\ChangeSceneClass.cs" />
+    <Compile Include="Assets\Script\SceneScript\ChangeToTitleScene.cs" />
     <None Include="Assets\Shader\Dissolve.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/s172091/Desktop/UnityGame/20sFever/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
